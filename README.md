@@ -3,7 +3,7 @@
 ## Authors
 Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Dennis C Thumbi] (https://github.com/Byakuya007)
+- [Dennis Collins](https://github.com/Byakuya007)
 
 
 ## Project setup instructions
